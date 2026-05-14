@@ -360,9 +360,13 @@ Iradukunda
 Doctor
 ingabire@example.com
 Ingabire
+ndagijimana@example.com
+Ndagijimana
 Pregnant woman
 ishimwe@example.com
 Ishimwe@123
+chantal@example.com
+Chantal123
 Nurse
 mukeshimana@example.com
 Mukeshimana
